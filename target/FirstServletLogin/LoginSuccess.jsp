@@ -13,7 +13,9 @@
 </head>
 <body>
 <h3>Hi Kunal<%= request.getAttribute("user") %> , Login successful.</h3>
+<h4>Valid Password Entered</h4>
 <a href="Login.html">Login Page</a>
+
 </body>
 
 </html>
